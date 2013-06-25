@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TaskCommander</id>
+    <version>1.0.0</version>
+    <title>Task Commander</title>
+    <authors>alexbihary</authors>
+    <owners>alexbihary</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/alexbihary/TaskCommander</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An easy way to run command line tasks for any .Net project. Add a CLI to an app in seconds.</description>
+    <releaseNotes />
+    <copyright>2012</copyright>
+    <language />
+    <tags>task runner task commander cmd cli command line interface mef</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ComponentModel.Composition" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
